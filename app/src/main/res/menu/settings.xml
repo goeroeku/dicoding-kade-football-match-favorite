@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/eng_premier"
+        android:title="@string/eng_premier"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ger_bundes"
+        android:title="@string/ger_bundes"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ita_serie"
+        android:title="@string/ita_serie"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fre_league"
+        android:title="@string/fre_league"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/spa_leage"
+        android:title="@string/spa_league"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ci FB Match Apps</string>
+    <string name="title_detail">Match Detail</string>
+
+    <string name="prev_match">Prev Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="eng_premier">English Premier League</string>
+    <string name="ger_bundes">German Bundes Liga</string>
+    <string name="ita_serie">Italian Serie A</string>
+    <string name="fre_league">Freanch League 1</string>
+    <string name="spa_league">Spanish La Liga</string>
+    <string name="vs">VS</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="favorite">Favorite</string>
+    <string name="empty">-</string>
+
+    <string name="default_date">Minggu, 04 Maret 2018</string>
+    <string name="default_home_team">Sriwijaya FC</string>
+    <string name="default_score">0</string>
+    <string name="default_away_team">Bali United</string>
+</resources>
